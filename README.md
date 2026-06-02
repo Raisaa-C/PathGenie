@@ -40,7 +40,7 @@ AI-powered career recommendation web app using machine learning and NLP.
 
 ![Result](images/assessmentpage.png)
 
-### Result
+### Recommendation Result
 
 ![Result](images/resultspage.png)
 
