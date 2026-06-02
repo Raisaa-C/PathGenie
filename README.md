@@ -30,6 +30,22 @@ AI-powered career recommendation web app using machine learning and NLP.
 
 ---
 
+## Screenshots
+
+### Landing Page
+
+![Homepage](images/landingpage.png)
+
+### Assessment Page
+
+![Result](images/assessmentpage.png)
+
+### Result
+
+![Result](images/resultspage.png)
+
+---
+
 ### Overview
 
 PathGenie analyzes user inputs such as interests, skills, and preferences, processes text data using TF-IDF, and applies machine learning models to recommend suitable career paths in real time.
